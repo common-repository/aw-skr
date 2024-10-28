@@ -1,0 +1,20 @@
+<strong>Disclaimer</strong>
+The author of this plugin is not liable for damage to software or hardware or property damage caused by the use of the plugin, unless they are based on gross negligence or willful misconduct of the author, his vicarious agents or his legal representatives.
+By activating and using the plugin, you release the author of the plugin from all liability claims - including claims by third parties.
+
+<strong>Terms of Use</strong>
+The use of the Scheidungskostenrechner widget/plugin is free of charge and is exclusively subject to the following conditions:
+The software has been carefully prepared and tested by the author and checked for viruses before publication and is provided in its actual state. It should be noted that it is not possible to develop software programs that are error-free for all application conditions. The author does not guarantee the unrestricted suitability of the software for a particular application or configuration. The author assumes no liability or warranty for errors in the software and errors and damages resulting from the use or inability to use the software. This includes loss of business profits, interruption of business, loss of data and all other material and moral losses and their consequential damages, even if the author has previously been expressly advised of the possibility of such damages.
+At the end of the widget / plugin, a small link and text is inserted, which leads to the plugin homepage.
+By using the software you declare your agreement with the aforementioned terms of use as well as the guarantee and liability disclaimer. Should individual provisions in these conditions be or become void, ineffective or contestable, this shall not affect the validity of all other provisions or agreements.
+
+<hr>
+<strong>Haftungsausschluss</strong>
+Der Autor dieses Plugins haftet nicht für Schäden an Soft- oder Hardware oder Vermögensschäden, die durch das Benutzen des Plugins entstehen, es sei denn diese beruhen auf einem grob fahrlässigen oder vorsätzlichen Handeln des Autors, seiner Erfüllungsgehilfen oder seiner gesetzlichen Vertreter. 
+Durch die Aktivierung und Nutzung des Plugins stellen Sie den Autor des Plugins von allen Haftungsansprüchen - auch bezüglich von Ansprüchen Dritter frei.
+
+<strong>Nutzungsbedingungen</strong>
+Die Nutzung des Scheidungskostenrechner Widgets/Plugins ist kostenfrei und erfolgt ausschließlich zu den nachfolgenden Bedingungen:
+Die Software wurde vom Autor sorgfältig erstellt und getestet sowie vor der Veröffentlichung auf Viren geprüft und wird im reinen Ist-Zustand zur Verfügung gestellt. Es wird darauf hingewiesen, dass es nicht möglich ist, Software-Programme so zu entwickeln, dass sie für alle Anwendungsbedingungen fehlerfrei einsetzbar sind. Der Autor garantiert nicht die uneingeschränkte Eignung der Software für einen bestimmten Anwendungsfall oder eine bestimmte Konfiguration. Der Autor übernimmt keinerlei Haftung oder Gewährleistung für Fehler in der Software und Fehler und Schäden, die sich aus der Nutzung oder Unfähigkeit zur Nutzung der Software ergeben. Dies schließt den Verlust von Geschäftsgewinnen, die Unterbrechung der geschäftlichen Abläufe, den Verlust von Daten sowie alle übrigen materiellen und ideellen Verluste und deren Folgeschäden ein und gilt selbst dann, wenn der Autor zuvor ausdrücklich auf die Möglichkeit derartiger Schäden hingewiesen worden ist. 
+Am Ende des Widgets/Plugins wird ein kleiner Link und Text eingefügt, der zur Plugin-Homepage führt.
+Sie erklären mit der Nutzung der Software Ihr Einverständnis mit den vorgenannten Nutzungsbedingungen sowie dem Garantie- und Haftungsausschluss. Sollten einzelne Bestimmungen in diesen Bedingungen nichtig, unwirksam oder anfechtbar sein oder werden, so wird hiervon die Wirksamkeit aller sonstigen Bestimmungen oder Vereinbarungen nicht berührt.
